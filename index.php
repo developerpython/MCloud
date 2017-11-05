@@ -32,7 +32,7 @@ while ($i<=5);
 
 for ($i=2; $i<=50; $i+=10)
 {
-    echo "The number is " . $i . "<br />";
+    echo "The number is sample " . $i . "<br />";
 }
 
 
