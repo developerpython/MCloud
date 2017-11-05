@@ -20,7 +20,7 @@ echo date("d");
 $ages[sathish] = '42';
 $ages[haymanth]= ' 24';
 
-echo "<br />associate array " . $ages[sathish] . " is sathish " . $ages[haymanth]." is haymanth <br />";
+echo "<br />TEST GIT associate array " . $ages[sathish] . " is sathish " . $ages[haymanth]." is haymanth <br />";
 
 $i=0;
 do
